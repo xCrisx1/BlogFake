@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity implements Dialog.NoticeDial
     public static AdapterComentario ad;
     ArrayList<Comentario> lista = new ArrayList<Comentario>();
 
+    int testgit = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
